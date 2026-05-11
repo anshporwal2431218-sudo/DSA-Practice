@@ -1,2 +1,2 @@
 # Strings
-Solving problems related to strings and character
+String manipulation and character-based problems.
