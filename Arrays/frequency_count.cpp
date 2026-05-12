@@ -5,7 +5,7 @@ class Solution {
     {
         int n = arr.size();
 
-        vector<int> hash(n + 1, 0);
+        vector<int> hash(n + 1, 0); 
 
         // count frequency
         for(int i = 0; i < n; i++)
@@ -24,3 +24,6 @@ class Solution {
         return ans;
     }
 };
+
+// Time Complexity: O(N)
+// Space Complexity: O(N)
