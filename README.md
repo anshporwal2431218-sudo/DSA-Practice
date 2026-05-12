@@ -1,2 +1,2 @@
-# DSA-Practice
-Daily Data Structures and Algorithms practice in C++.
+# Strings
+String manipulation and character-based problems.
