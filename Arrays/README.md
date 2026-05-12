@@ -1,6 +1,11 @@
-# Arrays
+# Arrays and Hashing
 
-Problems related to arrays and hashing.
+This folder contains array and hashing related DSA problems solved in C++.
 
-Optimized Approach:
-Can also be solved in O(1) extra space using in-place frequency counting.
+Topics covered:
+- Frequency Counting
+- Two Sum
+- Hashing
+- Prefix Sum
+- Two Pointers
+- Basic Array Manipulation
