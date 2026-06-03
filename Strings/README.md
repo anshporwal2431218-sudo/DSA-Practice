@@ -7,7 +7,9 @@ Topics covered:
 - Character Manipulation
 - Two Pointers
 - String Reversal
+- Hashing
 
 Problems solved:
 1. Valid Palindrome
 2. Reverse Words in a String
+3. Valid Anagram
