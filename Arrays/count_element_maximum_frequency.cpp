@@ -1,4 +1,6 @@
-// Approach: Sort the array and count the frequency of each element. Keep track of the maximum frequency and the sum of frequencies of elements that have the maximum frequency.
+// LeetCode 3005 - Count Elements With Maximum Frequency
+// Time Complexity: O(n log n)
+// Space Complexity: O(1)
 class Solution {
 public:
     int maxFrequencyElements(vector<int>& nums) 
@@ -33,5 +35,4 @@ public:
         return ans;
     }
 };
-// Time Complexity: O(n log n) due to sorting
-// Space Complexity: O(1) 
+
