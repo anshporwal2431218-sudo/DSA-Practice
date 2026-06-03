@@ -4,8 +4,13 @@ This folder contains array and hashing related DSA problems solved in C++.
 
 Topics covered:
 - Frequency Counting
-- Two Sum
 - Hashing
-- Prefix Sum
-- Two Pointers
+- Two Sum
+- Majority Element
 - Basic Array Manipulation
+
+Problems solved:
+1. Frequency Count
+2. Majority Element
+3. Two Sum
+4. Count Elements With Maximum Frequency
